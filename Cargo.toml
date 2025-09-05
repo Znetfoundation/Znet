@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "core/zproto",
+    "core/zhttp",
+    "core/zidentity",
+    "nodes/basic_node",
+    "client/zcli",
+]
+resolver = "2"
